@@ -1,0 +1,7 @@
+data/*.RData
+data/*.csv
+*.html
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
